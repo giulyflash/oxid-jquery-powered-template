@@ -1,0 +1,1 @@
+oxid eshop community edition comes algon with many featurs in templates so the idea to hide features and show with jQueryUI effects like accordion.
